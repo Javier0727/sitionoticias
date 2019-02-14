@@ -1,0 +1,21 @@
+/* body, html{
+    height: 100%;
+} */
+footer{
+ position: relative;
+ bottom: 0;
+ width: 100%;
+}
+.navtop{
+    position: relative;
+    top: 0px;
+}
+.navbar{
+    border-radius: 0rem;
+}
+.empujar{
+    height: 18.8em;;
+}
+.empujar2{
+    height: 7.68em;;
+}
